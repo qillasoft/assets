@@ -7,9 +7,9 @@ viewBox="0 0 512 512"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
   <style type="text/css">
-   :root { color: #cccccc; }
+   :root { color: #e6e6e6; }
     @media (prefers-color-scheme: dark) {
-      :root { color: #333333; }
+      :root { color: #1a1a1a; }
     }
     .fil0 { fill: currentColor; }
   </style>
@@ -22,3 +22,4 @@ viewBox="0 0 512 512"
   </g>
  </g>
 </svg>
+
