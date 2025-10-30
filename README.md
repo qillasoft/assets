@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.qillasoft.com"><strong>www.qillasoft.com</strong></a>
+  <a><strong>www.qillasoft.com</strong></a>
   <br>
 </p>
 
