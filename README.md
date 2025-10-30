@@ -8,4 +8,4 @@
   <br>
 </p>
 
-<p align="center">by : <a href="https://www.qillasoft.com"><strong>www.qillasoft.com</strong></a></p>
+<p align="center">by : <a href="https://www.qillasoft.com" target="_blank" rel="nofollow noreferrer noopener"><strong>www.qillasoft.com</strong></a></p>
