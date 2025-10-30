@@ -8,9 +8,4 @@
   <br>
 </p>
 
-<p align="center">
-  <a><strong>www.qillasoft.com</strong></a>
-  <br>
-</p>
-
-assets by : www.qillasoft.com
+<p align="center">assets by : www.qillasoft.com</p>
